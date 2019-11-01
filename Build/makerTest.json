@@ -1,0 +1,20 @@
+{
+"companyName": "Allan Samurai",
+"productName": "Gooders web AR",
+"productVersion": "1.0",
+"dataUrl": "makerTest.data.unityweb",
+"wasmCodeUrl": "makerTest.wasm.code.unityweb",
+"wasmFrameworkUrl": "makerTest.wasm.framework.unityweb",
+"asmCodeUrl": "makerTest.asm.code.unityweb",
+"asmMemoryUrl": "makerTest.asm.memory.unityweb",
+"asmFrameworkUrl": "makerTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0b6"
+}
